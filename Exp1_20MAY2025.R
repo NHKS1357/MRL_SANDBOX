@@ -19,7 +19,6 @@ print(list)
 print(list_of_objects)
 rm(list=ls())
 
-
 vec_ex=c("A"=1,"B"=2)
 
 
