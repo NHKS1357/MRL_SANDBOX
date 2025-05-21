@@ -2,7 +2,6 @@
 
 obj="21APR2025"
 
-
 vec_example=c("My","name","is","Anthony","GonzalViz")
 
 
